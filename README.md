@@ -1,15 +1,15 @@
 # Social Media Application
 
-A feature-rich social media web application built with modern web development technologies including React, Redux, and Java Spring Boot. This application enables users to share, interact, and connect seamlessly.
+A social media web application built with web development technologies including React, Redux, and Java Spring Boot. This application enables users to share, interact, and connect seamlessly.
 
 ## Features
 
 - **Post Management**: Users can create posts, like posts, and comment on them.
 - **Media Upload**: Upload images and videos, stored securely on Cloudinary.
-- **Chat Functionality**: Real-time chat for seamless user communication.
+- **Chat Functionality**: Real-time chat for seamless user communication (Frontend part In progress).
 - **Follow/Unfollow**: Ability to follow and unfollow other users.
 - **Authentication**: Secure JWT-based authentication.
-- **Database**: Robust data storage using MySQL.
+- **Database**: MySQL.
 
 ## Tech Stack
 
